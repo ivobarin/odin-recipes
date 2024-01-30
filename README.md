@@ -13,4 +13,5 @@ Well I tried to make an small modification about what was the site's original co
 I implemented the first two recipes (actually one of them is not even a recipe nvm). But I will try to focus on another project for the moment...
 
 You can access the site using this link:
-  https://ivobarin.github.io/odin-recipes/
+
+    https://ivobarin.github.io/odin-recipes/
