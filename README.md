@@ -11,3 +11,6 @@ The website will consist of a main index page which will have links to a few rec
 Well I tried to make an small modification about what was the site's original concept. I wanted to make a regional recipes site about my country. Nevertheless this is my first release ever so plis don't be upset if the site looks bad for now.
 
 I implemented the first two recipes (actually one of them is not even a recipe nvm). But I will try to focus on another project for the moment...
+
+You can access the site using this link:
+  https://ivobarin.github.io/odin-recipes/
